@@ -1,1 +1,1 @@
-console.log("hello mkdir") ;
+console.log("hello mkdir and start coding well!") ;
